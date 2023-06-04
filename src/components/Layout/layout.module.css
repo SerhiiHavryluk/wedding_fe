@@ -1,0 +1,188 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+
+}
+
+.content {
+    text-align: center;
+}
+
+.frame {
+    margin-top: -10px;
+}
+
+.contentText {
+    margin-top: -180px;
+    font-family: Ephesis, sans-serif;
+    color: rgba(30, 30, 30, 1);
+    font-size: 65px;
+    margin-left: 60px;
+}
+
+.kiss {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+
+.h3 {
+    font-family: Savoye Let, cursive;
+    font-size: 55px;
+}
+
+.ph3 {
+    margin-top: -70px;
+}
+
+.centered-break {
+    white-space: pre-wrap;
+}
+
+.wrap2 {
+    display: inline-block;
+    margin-top: 100px;
+    background-color: rgba(217, 217, 217, 1);
+    width: 400px;
+}
+
+.mrTop {
+    padding-top: 1px;
+}
+
+.mrTop1 {
+    padding-top: 50px;
+}
+
+.p1 {
+    margin-top: -35px;
+    font-size: 28px;
+    font-family: Savoye Let, cursive;
+    margin-bottom: 50px;
+}
+
+.hand {
+    padding-bottom: 70px;
+}
+
+.when {
+    font-family: Savoye Let, cursive;
+    font-size: 28px;
+}
+
+.date {
+    font-family: Savoye Let, cursive;
+    font-size: 40px;
+    margin-top: -20px;
+}
+
+.where {
+    font-family: Savoye Let, cursive;
+    font-size: 28px;
+}
+
+.restaurant {
+    font-family: Savoye Let, cursive;
+    font-size: 40px;
+    margin-top: -35px;
+}
+
+.location {
+    font-family: Savoye Let, cursive;
+    font-size: 28px;
+    margin-top: -35px;
+}
+.day {
+    font-family: Savoye Let, cursive;
+    font-size: 55px;
+}
+
+.plan {
+    padding-top: 10px;
+    padding-bottom: 40px;
+}
+
+.wrap3 {
+    display: contents;
+    background-color: rgba(241, 238, 238, 1);
+    width: 400px;
+}
+
+.wrap4 {
+    display: inline-block;
+    background-color: rgba(217, 217, 217, 1);
+    width: 400px;
+}
+
+.leaves {
+    margin-left: -250px;
+    margin-top: -20px;
+}
+
+.dress {
+    font-family: Savoye Let, cursive;
+    font-size: 55px;
+    margin-top: -90px
+}
+
+.cod {
+    font-family: Savoye Let, cursive;
+    font-size: 28px;
+    margin-top: -30px;
+}
+
+.ellipseWrap {
+    padding-bottom: 65px;
+}
+
+.ellipseGray {
+    margin-left: 15px;
+}
+
+.ellipseLactic {
+    margin-left: 15px;
+}
+
+.ellipseBeige {
+    margin-left: 15px;
+}
+
+.ellipseBrown {
+    margin-left: 15px;
+}
+
+.wrap5 {
+    display: inline-block;
+    background-color: rgba(217, 217, 217, 1);
+    margin-top: -43px;
+    width: 400px;
+}
+
+.confirm {
+    font-family: Savoye Let, cursive;
+    font-size: 40px;
+    padding-top: 20px;
+}
+
+.inputName {
+    margin-left: 10px;
+}
+
+.name {
+    font-family: Savoye Let, cursive;
+    font-size: 40px;
+}
+
+.secondName {
+    font-family: Savoye Let, cursive;
+    font-size: 24px;
+    margin-top: -50px
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

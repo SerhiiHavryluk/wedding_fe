@@ -1,0 +1,82 @@
+.input {
+    border: none;
+    background: transparent;
+    border-bottom: 1px solid black;
+}
+
+.h1 {
+    font-family: Savoye Let, cursive;
+    font-size: 40px;
+    margin-left: -160px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.li {
+    list-style-type: none ;
+    font-family: Savoye Let, cursive;
+    font-size: 30px;
+}
+
+.checkbox {
+    margin-right: 10px;
+}
+
+.checkboxInput1 {
+    margin-left: -100px;
+}
+.checkboxInput2 {
+    margin-left: -158px;
+}
+.checkboxInput3 {
+    margin-left: -125px;
+}
+.checkboxInput4 {
+    margin-left: -204px;
+}
+.checkboxInput5 {
+    margin-left: -225px;
+}
+.checkboxInput6 {
+    margin-left: -195px;
+}
+.checkboxInput7 {
+    margin-left: -245px;
+}
+.checkboxInput8 {
+    margin-left: -242px;
+}
+.checkboxInput9 {
+    margin-left: -267px;
+}
+.checkboxInput10 {
+    margin-left: -141px;
+}
+
+
+.drink {
+    font-family: Savoye Let, cursive;
+    font-size: 40px;
+    margin-left: -96px;
+}
+
+.secondDrink {
+    font-family: Savoye Let, cursive;
+    font-size: 24px;
+    margin-top: -50px;
+    margin-bottom: 10px;
+    margin-left: -80px;
+}
+
+.button {
+    font-family: Savoye Let, cursive;
+    font-size: 40px;
+    background-color: rgba(146, 146, 146, 1);
+    margin-bottom: 70px;
+    margin-top: 30px;
+    width: 263px;
+    height: 60px;
+    padding-top: 10px;
+    color: white;
+    border: none;
+}
