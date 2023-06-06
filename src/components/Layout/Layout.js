@@ -27,7 +27,7 @@ const Wrap = () => (
                     <span>Save the Date</span>
                 </div>
                 <div className={classes.kiss}>
-                    <img src={kiss} alt='1'/>
+                    <img src={kiss}  width='366px'  height='499px' alt='1'/>
                 </div>
                 <div className={classes.wrap2}>
                     <div className={classes.mrTop}>
@@ -44,7 +44,7 @@ const Wrap = () => (
                         </p>
                         <div>
                             <div className={classes.hand}>
-                                <img src={hand} alt='1'/>
+                                <img src={hand} width='398px' height='398px' alt='1'/>
                             </div>
                         </div>
                     </div>
@@ -56,7 +56,7 @@ const Wrap = () => (
                             </span>
                     </div>
                     <div className={classes.plan}>
-                        <img src={plan} alt='1'/>
+                        <img src={plan} width='390px' height='679px' alt='1'/>
                     </div>
                 </div>
                 <div className={classes.wrap4}>
@@ -81,7 +81,7 @@ const Wrap = () => (
                     </div>
                 </div>
                 <div>
-                    <img src={kiss2} alt='1'/>
+                    <img src={kiss2} width='496px' height='266px' alt='1'/>
                 </div>
                 <div className={classes.wrap5}>
                     <p className={classes.confirm}>

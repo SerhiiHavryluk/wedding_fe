@@ -22,7 +22,6 @@ function WeddingFormName() {
     
     const handleSubmit = async (e) => {
         e.preventDefault();
-    
         try {
           const response = await axios.post('http://185.65.244.188:8080/', formData, {
             headers: {
@@ -32,11 +31,12 @@ function WeddingFormName() {
     
           if (response.status === 200) {
             const user = response.data;
-            console.log('User created:', user);
+            alert('Ми почули Вас');
           } else {
             console.log('Response error:', response.status);
           }
         } catch (error) {
+            alert('Щось пішло не так')
           console.log('Error:', error);
         }
     
