@@ -81,7 +81,7 @@ const Wrap = () => (
                     </div>
                 </div>
                 <div>
-                    <img src={kiss2} width='400px' height='209px' alt='1'/>
+                    <img src={kiss2} width='400px' height='229px' alt='1'/>
                 </div>
                 <div className={classes.wrap5}>
                     <p className={classes.confirm}>
