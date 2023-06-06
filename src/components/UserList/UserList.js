@@ -13,15 +13,13 @@ const UserList = () => {
 
   const fetchUsers = async () => {
     try {
-      const response = await axios.get('http://localhost:8080/users');
+      const response = await axios.get('http://185.65.244.188:8080/users');
       setUsers(response.data);
     } catch (error) {
       console.error('Ошибка при получении пользователей:', error);
     }
   };
   
-  console.log(users)
-
 
   return (
     <div>
