@@ -1,7 +1,7 @@
 import React from 'react';
 import {Layout} from 'antd';
 import classes from "./layout.module.css";
-import frame from "../../images/ramka.svg";
+import frame from "../../images/ramka.png";
 import kiss from '../../images/kiss.png';
 import hand from '../../images/hand.png';
 import leaves from '../../images/leaves.svg';
@@ -21,7 +21,7 @@ const Wrap = () => (
         <div className={classes.wrap}>
             <Content className={classes.content}>
                 <div className={classes.frame}>
-                    <img src={frame} alt='1'/>
+                    <img src={frame} width='400px' height='420px' alt='1'/>
                 </div>
                 <div className={classes.contentText}>
                     <span>Save the Date</span>

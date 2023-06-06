@@ -31,7 +31,7 @@ function WeddingFormName() {
     
           if (response.status === 200) {
             // const user = response.data;
-            alert('Ми почули Вас');
+            alert('Дякуємо за вашу відповідь!');
           } else {
             console.log('Response error:', response.status);
           }
