@@ -30,7 +30,7 @@ function WeddingFormName() {
           });
     
           if (response.status === 200) {
-            const user = response.data;
+            // const user = response.data;
             alert('Ми почули Вас');
           } else {
             console.log('Response error:', response.status);
@@ -40,7 +40,6 @@ function WeddingFormName() {
           console.log('Error:', error);
         }
     
-        // Сброс формы после отправки
         setFormData({
           firstName: '',
           secondName: '',

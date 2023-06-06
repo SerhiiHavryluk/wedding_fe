@@ -2,16 +2,16 @@ import React from 'react';
 import {Layout} from 'antd';
 import classes from "./layout.module.css";
 import frame from "../../images/ramka.svg";
-import kiss from '../../images/kiss.svg';
-import hand from '../../images/hand.svg';
+import kiss from '../../images/kiss.png';
+import hand from '../../images/hand.png';
 import leaves from '../../images/leaves.svg';
 import ellipseGray from '../../images/ellipseGrey.svg';
 import ellipseLactic from '../../images/ellipseLactic.svg';
 import ellipseBeige from '../../images/ellipseBeige.svg';
 import ellipseBrown from '../../images/ellipseBrown.svg';
 import ellipseWhite from '../../images/ellipseWhite.svg';
-import kiss2 from '../../images/kiss2.svg';
-import plan from '../../images/plan.svg'
+import kiss2 from '../../images/kiss2.JPG';
+import plan from '../../images/plan.png'
 import WeddingFormName from "../Form/Form";
 
 const {Content} = Layout;
@@ -81,7 +81,7 @@ const Wrap = () => (
                     </div>
                 </div>
                 <div>
-                    <img src={kiss2} width='496px' height='266px' alt='1'/>
+                    <img src={kiss2} width='400px' height='209px' alt='1'/>
                 </div>
                 <div className={classes.wrap5}>
                     <p className={classes.confirm}>
