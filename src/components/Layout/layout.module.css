@@ -124,7 +124,7 @@
 .cod {
     font-family: Cormorant Infant,  Italic;
     font-size: 20px;
-    display: -webkit-inline-flex;
+    display: inline-flex;
     margin-top: -30px;
 }
 
