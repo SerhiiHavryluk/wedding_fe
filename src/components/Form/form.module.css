@@ -5,17 +5,17 @@
 }
 
 .h1 {
-    font-family: Savoye Let, cursive;
-    font-size: 40px;
-    margin-left: -160px;
-    margin-top: 50px;
+    font-family: Cormorant Infant,  Italic;
+    font-size: 31px;
+    margin-top: 37px;
+    padding-bottom: 13px;
     margin-bottom: 0;
 }
 
 .li {
     list-style-type: none ;
-    font-family: Savoye Let, cursive;
-    font-size: 30px;
+    font-family: Cormorant Infant,  Italic;
+    font-size: 24px;
 }
 
 .checkbox {
@@ -23,22 +23,22 @@
 }
 
 .checkboxInput1 {
-    margin-left: -100px;
+    margin-left: -95px;
 }
 .checkboxInput2 {
-    margin-left: -158px;
+    margin-left: -141px;
 }
 .checkboxInput3 {
-    margin-left: -125px;
+    margin-left: -107px;
 }
 .checkboxInput4 {
-    margin-left: -204px;
+    margin-left: -192px;
 }
 .checkboxInput5 {
-    margin-left: -225px;
+    margin-left: -223px;
 }
 .checkboxInput6 {
-    margin-left: -195px;
+    margin-left: -190px;
 }
 .checkboxInput7 {
     margin-left: -245px;
@@ -47,30 +47,29 @@
     margin-left: -242px;
 }
 .checkboxInput9 {
-    margin-left: -267px;
+    margin-left: -265px;
 }
 .checkboxInput10 {
-    margin-left: -141px;
+    margin-left: -133px;
 }
 
 
 .drink {
-    font-family: Savoye Let, cursive;
-    font-size: 40px;
-    margin-left: -96px;
+    font-family: Cormorant Infant,  Italic;
+    font-size: 31px;
 }
 
 .secondDrink {
-    font-family: Savoye Let, cursive;
-    font-size: 24px;
-    margin-top: -50px;
-    margin-bottom: 10px;
-    margin-left: -80px;
+    font-family: Cormorant Infant,  Italic;
+    font-size: 20px;
+    margin-top: -25px;
+    margin-left: -19px;
 }
 
 .button {
-    font-family: Savoye Let, cursive;
-    font-size: 40px;
+    display: inline-grid;
+    font-family: Cormorant Infant,  Italic;
+    font-size: 35px;
     background-color: rgba(146, 146, 146, 1);
     margin-bottom: 70px;
     margin-top: 30px;

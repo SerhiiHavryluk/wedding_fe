@@ -90,7 +90,7 @@ const Wrap = () => (
                     </p>
                     <div className={classes.inputName}>
                         <p className={classes.name}>
-                            Ваше Ім’я та Прізвище
+                            Ваше Ім’я
                         </p>
                         <p className={classes.secondName}>
                             (Якщо ви прийдете не самі - укажіть
