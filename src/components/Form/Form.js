@@ -92,49 +92,49 @@ function WeddingFormName() {
                 />
             </label>
             <br/>
-            <ul>
-                <p className={classes.h1}>
-                    Присутність?
-                </p>
-                <li className={classes.li}>
-                    <label className={classes.checkboxInput1}>
-                        <input
-                            type="checkbox"
-                            name="willAttend"
-                            checked={formData.willAttend}
-                            onChange={handleChange}
-                            className={classes.checkbox}
-                        />
-                        Я прийду/Мы прийдемо
-                    </label>
-                </li>
-                <li className={classes.li}>
-                    <label className={classes.checkboxInput2}>
-                        <input
-                            type="checkbox"
-                            name="unableToAttend"
-                            checked={formData.unableToAttend}
-                            onChange={handleChange}
-                            className={classes.checkbox}
-                        />
-                        Прийти не зможу
-                    </label>
-                </li>
-                <li className={classes.li}>
-                    <label className={classes.checkboxInput3}>
-                        <input
-                            type="checkbox"
-                            name="willRespondLater"
-                            checked={formData.willRespondLater}
-                            onChange={handleChange}
-                            className={classes.checkbox}
+                <ul className={classes.ul}>
+                    <p className={classes.h1}>
+                        Присутність?
+                    </p>
+                    <li className={classes.li}>
+                        <label>
+                            <input
+                                type="checkbox"
+                                name="willAttend"
+                                checked={formData.willAttend}
+                                onChange={handleChange}
+                                className={classes.checkbox}
+                            />
+                            Я прийду/Ми прийдемо
+                        </label>
+                    </li>
+                    <li className={classes.li}>
+                        <label>
+                            <input
+                                type="checkbox"
+                                name="unableToAttend"
+                                checked={formData.unableToAttend}
+                                onChange={handleChange}
+                                className={classes.checkbox}
+                            />
+                            Прийти не зможу
+                        </label>
+                    </li>
+                    <li className={classes.li}>
+                        <label>
+                            <input
+                                type="checkbox"
+                                name="willRespondLater"
+                                checked={formData.willRespondLater}
+                                onChange={handleChange}
+                                className={classes.checkbox}
 
-                        />
-                        Дам відповідь пізніше
-                    </label>
-                </li>
-            </ul>
-            <ul>
+                            />
+                            Дам відповідь пізніше
+                        </label>
+                    </li>
+                </ul>
+            <ul className={classes.ul}>
                 <p className={classes.drink}>
                     Переваги за напоями
                 </p>
@@ -142,7 +142,7 @@ function WeddingFormName() {
                     (Можна обрати декілька варіантів)
                 </p>
                 <li className={classes.li}>
-                    <label className={classes.checkboxInput4}>
+                    <label>
                         <input
                             type="checkbox"
                             name="willChampagne"
@@ -154,7 +154,7 @@ function WeddingFormName() {
                     </label>
                 </li>
                 <li className={classes.li}>
-                    <label className={classes.checkboxInput5}>
+                    <label>
                         <input
                             type="checkbox"
                             name="willWhiteWine"
@@ -166,7 +166,7 @@ function WeddingFormName() {
                     </label>
                 </li>
                 <li className={classes.li}>
-                    <label className={classes.checkboxInput6}>
+                    <label>
                         <input
                             type="checkbox"
                             name="willRedWine"
@@ -178,7 +178,7 @@ function WeddingFormName() {
                     </label>
                 </li>
                 <li className={classes.li}>
-                    <label className={classes.checkboxInput7}>
+                    <label>
                         <input
                             type="checkbox"
                             name="willCognac"
@@ -190,7 +190,7 @@ function WeddingFormName() {
                     </label>
                 </li>
                 <li className={classes.li}>
-                    <label className={classes.checkboxInput8}>
+                    <label>
                         <input
                             type="checkbox"
                             name="willGorilka"
@@ -202,7 +202,7 @@ function WeddingFormName() {
                     </label>
                 </li>
                 <li className={classes.li}>
-                    <label className={classes.checkboxInput9}>
+                    <label>
                         <input
                             type="checkbox"
                             name="willВіski"
@@ -214,7 +214,7 @@ function WeddingFormName() {
                     </label>
                 </li>
                 <li className={classes.li}>
-                    <label className={classes.checkboxInput10}>
+                    <label>
                         <input
                             type="checkbox"
                             name="willNonAlcoholicDrinks"

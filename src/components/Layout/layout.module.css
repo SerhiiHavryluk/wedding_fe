@@ -30,11 +30,11 @@
 
 .h3 {
     font-family: Cormorant Infant,  Italic;
-    font-size: 55px;
+    font-size: 45px;
 }
 
 .ph3 {
-    margin-top: -70px;
+    margin-top: -60px;
 }
 
 .centered-break {
@@ -58,7 +58,7 @@
 
 .p1 {
     margin-top: -35px;
-    font-size: 24px;
+    font-size: 20px;
     font-family: Cormorant Infant,  Italic;
     margin-bottom: 50px;
 }
@@ -69,12 +69,12 @@
 
 .when {
     font-family: Cormorant Infant,  Italic;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .where {
     font-family: Cormorant Infant,  Italic;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .restaurant {
@@ -85,12 +85,12 @@
 
 .location {
     font-family: Cormorant Infant,  Italic;
-    font-size: 24px;
+    font-size: 20px;
     margin-top: -35px;
 }
 .day {
     font-family: Cormorant Infant,  Italic;
-    font-size: 55px;
+    font-size: 45px;
 }
 
 .plan {
@@ -117,8 +117,8 @@
 
 .dress {
     font-family: Cormorant Infant,  Italic;
-    font-size: 55px;
-    margin-top: -90px
+    font-size: 45px;
+    margin-top: -108px
 }
 
 .cod {
@@ -156,7 +156,7 @@
 
 .confirm {
     font-family: Cormorant Infant,  Italic;
-    font-size: 31px;
+    font-size: 27px;
     padding-top: 20px;
 }
 
@@ -166,12 +166,12 @@
 
 .name {
     font-family: Cormorant Infant,  Italic;
-    font-size: 31px;
+    font-size: 27px;
 }
 
 .secondName {
     font-family: Cormorant Infant,  Italic;
-    font-size: 20px;
+    font-size: 15px;
     margin-top: -25px
 }
 

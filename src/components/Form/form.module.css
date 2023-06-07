@@ -6,70 +6,41 @@
 
 .h1 {
     font-family: Cormorant Infant,  Italic;
-    font-size: 31px;
+    font-size: 27px;
     margin-top: 37px;
     padding-bottom: 13px;
     margin-bottom: 0;
 }
 
+.ul {
+    text-align: initial;
+}
+
 .li {
     list-style-type: none ;
     font-family: Cormorant Infant,  Italic;
-    font-size: 24px;
+    font-size: 20px;
 }
 
 .checkbox {
     margin-right: 10px;
 }
 
-.checkboxInput1 {
-    margin-left: -95px;
-}
-.checkboxInput2 {
-    margin-left: -141px;
-}
-.checkboxInput3 {
-    margin-left: -107px;
-}
-.checkboxInput4 {
-    margin-left: -192px;
-}
-.checkboxInput5 {
-    margin-left: -223px;
-}
-.checkboxInput6 {
-    margin-left: -190px;
-}
-.checkboxInput7 {
-    margin-left: -245px;
-}
-.checkboxInput8 {
-    margin-left: -242px;
-}
-.checkboxInput9 {
-    margin-left: -265px;
-}
-.checkboxInput10 {
-    margin-left: -133px;
-}
-
-
 .drink {
     font-family: Cormorant Infant,  Italic;
-    font-size: 31px;
+    font-size: 27px;
 }
 
 .secondDrink {
     font-family: Cormorant Infant,  Italic;
-    font-size: 20px;
+    font-size: 15px;
     margin-top: -25px;
-    margin-left: -19px;
 }
 
 .button {
     display: inline-grid;
     font-family: Cormorant Infant,  Italic;
-    font-size: 35px;
+    font-size: 30px;
     background-color: rgba(146, 146, 146, 1);
     margin-bottom: 70px;
     margin-top: 30px;
