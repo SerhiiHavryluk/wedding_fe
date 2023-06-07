@@ -13,7 +13,7 @@ const UserList = () => {
 
   const fetchUsers = async () => {
     try {
-      const response = await axios.get('http://185.65.244.188:8080/users');
+      const response = await axios.get('http://185.65.244.188:1310/users');
       setUsers(response.data);
     } catch (error) {
       console.error('Ошибка при получении пользователей:', error);

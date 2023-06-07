@@ -23,7 +23,7 @@ function WeddingFormName() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-          const response = await axios.post('http://185.65.244.188:8080/', formData, {
+          const response = await axios.post('http://185.65.244.188:1310/', formData, {
             headers: {
               'Content-Type': 'application/json',
             },
