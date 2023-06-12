@@ -5,7 +5,7 @@
 }
 
 .h1 {
-    font-family: Savoye Let,  Italic;
+    font-family: Cormorant Infant,  Italic;
     font-size: 27px;
     margin-top: 37px;
     padding-bottom: 13px;
@@ -18,7 +18,7 @@
 
 .li {
     list-style-type: none ;
-    font-family: Savoye Let,  Italic;
+    font-family: Cormorant Infant,  Italic;
     font-size: 20px;
 }
 
@@ -27,19 +27,19 @@
 }
 
 .drink {
-    font-family: Savoye Let,  Italic;
+    font-family: Cormorant Infant,  Italic;
     font-size: 27px;
 }
 
 .secondDrink {
-    font-family: Savoye Let,  Italic;
+    font-family: Cormorant Infant,  Italic;
     font-size: 15px;
     margin-top: -25px;
 }
 
 .button {
     display: inline-grid;
-    font-family: Savoye Let,  Italic;
+    font-family: Cormorant Infant,  Italic;
     font-size: 30px;
     background-color: rgba(146, 146, 146, 1);
     margin-bottom: 70px;
