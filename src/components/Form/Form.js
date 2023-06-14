@@ -19,11 +19,11 @@ function WeddingFormName() {
         willВіski: false,
         willNonAlcoholicDrinks: false,
     });
-    
+    // http://185.65.244.188
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-          const response = await axios.post('http://185.65.244.188:1310/', formData, {
+          const response = await axios.post('https://wedding-be-production.up.railway.app:1310/', formData, {
             headers: {
               'Content-Type': 'application/json',
             },
