@@ -10,10 +10,9 @@ const UserList = () => {
   useEffect(() => {
     fetchUsers();
   }, []);
-  // http://185.65.244.188
   const fetchUsers = async () => {
     try {
-      const response = await axios.get('https://wedding-be-production.up.railway.app:1310/users');
+      const response = await axios.get('http://185.65.244.188:1310/users');
       setUsers(response.data);
     } catch (error) {
       console.error('Ошибка при получении пользователей:', error);
